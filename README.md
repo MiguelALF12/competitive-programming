@@ -1,4 +1,4 @@
 # competitive-programming
 ## [in process]
 
-Here I dispose some resolved problems of CP from various sources (Codeforces, Leetcode, etc)
+Solved problems of Competitve Programming from various sources (Codeforces, Leetcode, etc)
