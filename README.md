@@ -1,4 +1,2 @@
-# competitive-programming
-## [in process]
-
-Solved problems of Competitve Programming from various sources (Codeforces, Leetcode, etc)
+# Competitive programming
+Solved problems of Competitve Programming from sources like Codeforces and Leetcode.
